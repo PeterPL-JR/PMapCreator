@@ -1,0 +1,13 @@
+{
+  "menu": {
+    "file": {
+      "$": "Plik",
+      "new": "Nowa Mapa",
+      "open": "Otwórz",
+      "save": "Zapisz",
+      "save_as": "Zapisz Jako...",
+      "close": "Zamknij",
+      "exit": "Wyjście"
+    }
+  }
+}

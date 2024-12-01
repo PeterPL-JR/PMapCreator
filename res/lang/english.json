@@ -1,0 +1,13 @@
+{
+  "menu": {
+    "file": {
+      "$": "File",
+      "new": "New Map",
+      "open": "Open",
+      "save": "Save",
+      "save_as": "Save As...",
+      "close": "Close",
+      "exit": "Exit"
+    }
+  }
+}
